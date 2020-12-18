@@ -15,7 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*defines the header in the header class*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -25,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/*defines the Divisions in the header class*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -107,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-
+/*Controls the Content panel's specifications*/
 .Content-Panel {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,7 +128,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 
 .footer {
