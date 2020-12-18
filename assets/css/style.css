@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*defines the header class*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,12 +70,14 @@ p {
     margin-left: 25px;
 }
 
+/*defines the Content class*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*defines the Benefit class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,6 +100,7 @@ p {
     text-align: center;
 }
 
+/*Controls the benefit img's size and other settings*/
 .benefit img {
     display: block;
     margin: 10px auto;
